@@ -5,7 +5,7 @@ title: Cats
 #type: gallery
 sort_by: Name
 categories: ["animals", "nature"]
-resources:
+# resources:
   # - src: alexander-london-mJaD10XeD7w-unsplash.jpg
   #   title: Brown tabby cat on white stairs by Alexander London
   # - src: amber-kipp-75715CVEJhI-unsplash.jpg
